@@ -1,7 +1,9 @@
 # Open Source Audit Project
 ## Student Details
 Name: Swar Marthak
+
 Registration Number: 24bas100762
+
 Chosen Software: Git
 ## Git
 Git is a distributed version control system that enables developers to track changes and collaborate efficiently.
