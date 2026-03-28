@@ -45,3 +45,12 @@ chmod +x script3.sh
 chmod +x script4.sh
 chmod +x script5.sh
 ```
+### Step 3: Run scripts
+
+```
+./script1.sh
+./script2.sh
+./script3.sh
+./script4.sh script1.sh echo
+./script5.sh
+```
